@@ -1,1 +1,2 @@
 # CSE321-Introduction-to-Algorithm-Design
+There are some homeworks without code imlementation and also there are some homeworks wiht code implemenatation indise of this folder. Python 3.7 was used for implementing codes. You can use Python Shell or PyCharm or other programs to run these programs. If you do not understand what the problem is you can read pdf of homeworks. If you do not understand solution of these problems you can read the report of homerworks.
